@@ -1,0 +1,13 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/ic_shortcut_settings"
+        android:shortcutId="settings"
+        android:shortcutShortLabel="@string/settings">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.kun510.cleaner.ui.settings.SettingsActivity"
+            android:targetPackage="com.kun510.cleaner" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

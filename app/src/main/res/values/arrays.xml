@@ -1,0 +1,374 @@
+<resources>
+    <string-array name="generic_extensions">
+        <item>DS_Store</item>
+        <item>Spotlight-V100</item>
+        <item>fseventsd</item>
+        <item>log</item>
+        <item>logs</item>
+        <item>old</item>
+        <item>tmp</item>
+        <item>temp</item>
+        <item>splashad</item>
+        <item>db</item>
+        <item>nomedia</item>
+    </string-array>
+
+    <string-array name="apk_extensions">
+        <item>apk</item>
+        <item>apks</item>
+        <item>apkm</item>
+        <item>apkx</item>
+        <item>aab</item>
+    </string-array>
+
+    <string-array name="microsoft_office_extensions">
+        <item>doc</item>
+        <item>dot</item>
+        <item>wbk</item>
+        <item>docx</item>
+        <item>docm</item>
+        <item>dotx</item>
+        <item>dotm</item>
+        <item>docb</item>
+        <item>pdf</item>
+        <item>wll</item>
+        <item>wwl</item>
+        <item>xls</item>
+        <item>xlt</item>
+        <item>xlm</item>
+        <item>xlsx</item>
+        <item>xlsm</item>
+        <item>xltx</item>
+        <item>xltm</item>
+        <item>xlsb</item>
+        <item>xla</item>
+        <item>xlam</item>
+        <item>xll</item>
+        <item>xlw</item>
+        <item>ppt</item>
+        <item>pot</item>
+        <item>pps</item>
+        <item>ppa</item>
+        <item>pptx</item>
+        <item>pptm</item>
+        <item>potx</item>
+        <item>potm</item>
+        <item>ppam</item>
+        <item>ppsx</item>
+        <item>ppsm</item>
+        <item>sldx</item>
+        <item>sldm</item>
+        <item>ppam</item>
+        <item>accda</item>
+        <item>accdb</item>
+        <item>accde</item>
+        <item>accdr</item>
+        <item>accdt</item>
+        <item>accdu</item>
+        <item>one</item>
+        <item>ecf</item>
+        <item>pub</item>
+    </string-array>
+
+    <string-array name="archive_extensions">
+        <item>7z</item>
+        <item>ace</item>
+        <item>arj</item>
+        <item>bz</item>
+        <item>bz2</item>
+        <item>cab</item>
+        <item>cb7</item>
+        <item>cbt</item>
+        <item>cbz</item>
+        <item>cbr</item>
+        <item>dgc</item>
+        <item>dmg</item>
+        <item>ear</item>
+        <item>gz</item>
+        <item>gzip</item>
+        <item>ha</item>
+        <item>ice</item>
+        <item>jar</item>
+        <item>kgb</item>
+        <item>lzh</item>
+        <item>lz</item>
+        <item>lzma</item>
+        <item>lzo</item>
+        <item>pak</item>
+        <item>partimg</item>
+        <item>pea</item>
+        <item>pet</item>
+        <item>pk3</item>
+        <item>pk4</item>
+        <item>rar</item>
+        <item>rpm</item>
+        <item>rz</item>
+        <item>s7z</item>
+        <item>sda</item>
+        <item>sea</item>
+        <item>sen</item>
+        <item>sfark</item>
+        <item>sfx</item>
+        <item>shar</item>
+        <item>sit</item>
+        <item>sitx</item>
+        <item>sqx</item>
+        <item>tar</item>
+        <item>tar.bz2</item>
+        <item>tar.gz</item>
+        <item>tar.xz</item>
+        <item>tgz</item>
+        <item>tlz</item>
+        <item>txz</item>
+        <item>udf</item>
+        <item>utz</item>
+        <item>uu</item>
+        <item>uue</item>
+        <item>war</item>
+        <item>wim</item>
+        <item>xar</item>
+        <item>xp3</item>
+        <item>xz</item>
+        <item>z</item>
+        <item>zip</item>
+        <item>zipx</item>
+        <item>zoo</item>
+        <item>zpaq</item>
+    </string-array>
+
+    <string-array name="audio_extensions">
+        <item>mp3</item>
+        <item>m4a</item>
+        <item>wav</item>
+        <item>flac</item>
+        <item>midi</item>
+        <item>wma</item>
+        <item>aac</item>
+        <item>ogg</item>
+        <item>opus</item>
+        <item>aiff</item>
+    </string-array>
+
+    <string-array name="video_extensions">
+        <item>mp4</item>
+        <item>avi</item>
+        <item>mov</item>
+        <item>mkv</item>
+        <item>flv</item>
+        <item>webm</item>
+        <item>vob</item>
+        <item>ogv</item>
+        <item>gif</item>
+        <item>gifv</item>
+        <item>mng</item>
+        <item>wmv</item>
+        <item>yuv</item>
+        <item>amv</item>
+    </string-array>
+
+    <string-array name="image_extensions">
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>webp</item>
+        <item>bmp</item>
+        <item>png</item>
+        <item>raw</item>
+        <item>psd</item>
+    </string-array>
+
+    <string-array name="windows_extensions">
+        <item>exe</item>
+        <item>msi</item>
+        <item>ini</item>
+    </string-array>
+
+    <string-array name="font_extensions">
+        <item>ttf</item>
+        <item>otf</item>
+    </string-array>
+
+    <string-array name="aggressive_filter_files">
+        <item>nomedia</item>
+        <item>splashad</item>
+        <item>csv</item>
+        <item>thumbs?.db</item>
+        <item>thumb[0–9]</item>
+        <item>pxr</item>
+        <item>xd</item>
+        <item>.xml</item>
+        <item>.z</item>
+        <item>.tar</item>
+        <item>.gz</item>
+        <item>.iso</item>
+        <item>.cab</item>
+        <item>.jar</item>
+        <item>.dng</item>
+        <item>.bz2</item>
+        <item>.lzh</item>
+        <item>.lzma</item>
+        <item>.ace</item>
+        <item>.arj</item>
+        <item>.deb</item>
+        <item>.rpm</item>
+        <item>.tar.gz</item>
+        <item>.tar.xz</item>
+        <item>.gz.tar</item>
+        <item>.bz2tar</item>
+        <item>.xz.tar</item>
+        <item>.z</item>
+        <item>.lz</item>
+        <item>.txt</item>
+        <item>.viz</item>
+        <item>.psxpj</item>
+        <item>.htm</item>
+        <item>.html</item>
+    </string-array>
+
+    <string-array name="aggressive_filter_folders">
+        <item>.Trash</item>
+        <item>.DS_Store</item>
+        <item>.estrongs</item>
+        <item>.facebook_cache</item>
+        <item>.spotlight-V100</item>
+        <item>.thumbnails</item>
+        <item>Ads</item>
+        <item>AnyDesk</item>
+        <item>Apk Editor</item>
+        <item>Apk Editor Plus</item>
+        <item>Apk Editor Pro</item>
+        <item>Audiobooks</item>
+        <item>Bluetoooth</item>
+        <item>Bluetooth</item>
+        <item>Bugreport</item>
+        <item>Cache</item>
+        <item>Camera</item>
+        <item>DCIM</item>
+        <item>Desktop.ini</item>
+        <item>Discord</item>
+        <item>Download</item>
+        <item>Downloads</item>
+        <item>Fseventsd</item>
+        <item>GBWhatsApp</item>
+        <item>GBWhatsApp Animated Gifs</item>
+        <item>GBWhatsApp Audio</item>
+        <item>GBWhatsApp Documents</item>
+        <item>GBWhatsApp Images</item>
+        <item>GBWhatsApp Stickers</item>
+        <item>GBWhatsApp Video</item>
+        <item>Ifont</item>
+        <item>Jumobile</item>
+        <item>Kinguserdown</item>
+        <item>Logs</item>
+        <item>Lost.dir</item>
+        <item>Media</item>
+        <item>Minidump</item>
+        <item>Mobvista</item>
+        <item>Notifications</item>
+        <item>OSSLog</item>
+        <item>Photoeditor</item>
+        <item>Photos</item>
+        <item>Picsart</item>
+        <item>Podcasts</item>
+        <item>QQSecureDownload</item>
+        <item>Ringtones</item>
+        <item>Screenshots</item>
+        <item>Temp</item>
+        <item>Temporary</item>
+        <item>Thumbnails?</item>
+        <item>Telegram</item>
+        <item>Tmp</item>
+        <item>Tmp</item>
+        <item>Twrp</item>
+        <item>Unityadsvideocache</item>
+        <item>WhatsApp</item>
+        <item>WhatsApp Business</item>
+        <item>WhatsApp Animated Gifs</item>
+        <item>WhatsApp Audio</item>
+        <item>WhatsApp Documents</item>
+        <item>WhatsApp Images</item>
+        <item>WhatsApp Stickers</item>
+        <item>WhatsApp Video</item>
+        <item>Xiaoying</item>
+    </string-array>
+
+    <string-array name="generic_filter_folders">
+        <item>.AppleDouble</item>
+        <item>.DocumentRevisions-V100</item>
+        <item>.MobileBackups</item>
+        <item>.Spotlight-V100</item>
+        <item>.Trashes</item>
+        <item>.VolumeIcon.icns</item>
+        <item>.android</item>
+        <item>.cache</item>
+        <item>.gradle</item>
+        <item>.idea</item>
+        <item>.thumbnails</item>
+        <item>.vscode</item>
+        <item>AndroidStudioProjects</item>
+        <item>Backup</item>
+        <item>DCIM/.thumbnails</item>
+        <item>Log</item>
+        <item>Logs</item>
+        <item>Podcasts</item>
+        <item>ads</item>
+        <item>advertisement</item>
+        <item>bin</item>
+        <item>backup</item>
+        <item>cache</item>
+        <item>logs</item>
+        <item>node_modules</item>
+        <item>obj</item>
+        <item>temp</item>
+        <item>temporary</item>
+        <item>temps</item>
+        <item>thumbs</item>
+        <item>thumbnails</item>
+        <item>target</item>
+        <item>tmp</item>
+        <item>venv</item>
+    </string-array>
+
+    <string-array name="preference_language_entries">
+        <item>@string/bulgarian</item>
+        <item>@string/english</item>
+        <item>@string/french</item>
+        <item>@string/german</item>
+        <item>@string/hindi</item>
+        <item>@string/hungarian</item>
+        <item>@string/indonesian</item>
+        <item>@string/italian</item>
+        <item>@string/japanese</item>
+        <item>@string/polish</item>
+        <item>@string/romanian</item>
+        <item>@string/russian</item>
+        <item>@string/spanish</item>
+        <item>@string/turkish</item>
+        <item>@string/ukrainian</item>
+        <item>@string/traditional_chinese</item>
+    </string-array>
+    <string-array name="preference_language_values">
+        <item>bg</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>hi</item>
+        <item>hu</item>
+        <item>in</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>pl</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>es</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>zh-rTW</item>
+    </string-array>
+    <string-array name="file_sizes">
+        <item>200</item>
+        <item>400</item>
+        <item>600</item>
+        <item>800</item>
+        <item>900</item>
+    </string-array>
+</resources>
